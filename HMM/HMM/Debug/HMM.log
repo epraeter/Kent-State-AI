@@ -1,0 +1,6 @@
+﻿  hmm.cpp
+C:\Users\ethan\source\repos\HMM\HMM\hmm.cpp(53,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ethan\source\repos\HMM\HMM\hmm.cpp(89,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  main.cpp
+  Generating Code...
+  HMM.vcxproj -> C:\Users\ethan\source\repos\HMM\Debug\HMM.exe
